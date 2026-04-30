@@ -214,8 +214,6 @@ source "drivers/nvmem/Kconfig"
 
 source "drivers/hwtracing/Kconfig"
 
-source "drivers/hwtracing/google/Kconfig"
-
 source "drivers/fpga/Kconfig"
 
 source "drivers/fsi/Kconfig"
@@ -237,5 +235,4 @@ source "drivers/interconnect/Kconfig"
 source "drivers/counter/Kconfig"
 
 source "drivers/most/Kconfig"
-source "drivers/kernelsu/Kconfig"
 endmenu
